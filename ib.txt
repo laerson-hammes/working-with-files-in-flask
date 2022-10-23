@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=7w7_DFuu_z4&ab_channel=PalancaCode
+https://github.com/mlussati/pytutorial-concept/blob/master/tutorial/flask/flask_upload_file.py
+https://www.youtube.com/watch?v=oKtJdsFfNnI&ab_channel=ProgramandoComRoger
